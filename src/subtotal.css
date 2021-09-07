@@ -1,0 +1,16 @@
+.subtotal {
+    padding: 5px;
+}
+.checkout-button {
+    padding: 10px;
+    margin: 10px;
+    background-color:greenyellow;
+    border-radius: 5px;
+
+
+}
+.checkout-button:hover {
+    color:  white;
+    background-color: limegreen;
+    
+}

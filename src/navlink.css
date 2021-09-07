@@ -1,0 +1,27 @@
+.navlink {
+    background-color: blanchedalmond;
+    height: 40px;
+    
+}
+.navlink-outer {
+    width: 70%;
+    margin: auto;
+    padding: 6px;
+} 
+.navlink-outer a{
+ 
+    text-decoration: none;
+    cursor: pointer;
+    padding: 4px;
+    margin-top: 10px; 
+    margin-right: 30px;
+    
+}
+.navlink-outer a:hover{
+    text-decoration: none;
+    color: rgb(194, 70, 70);  
+}
+.navlink-inner {
+    margin-top: 3px;
+    
+}

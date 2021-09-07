@@ -1,0 +1,33 @@
+.footer {
+    background-color: black;
+    width: 100%;
+    min-height: 150px;
+}
+.footer-top {
+    background-color: blanchedalmond;
+    min-height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-links {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    margin-top: 15px;
+}
+.social-title {
+    text-align: center;
+}
+.social-icon > a {
+    
+    margin-left: 20px;
+    cursor: pointer;
+}
+.social-icon > a {
+    text-decoration: none;
+}

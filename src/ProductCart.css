@@ -1,0 +1,31 @@
+.productCard {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.productCard-image {
+    object-fit: contain;
+    width: 160px;
+    height: 160px;
+    border: 1px solid #ccc;
+}
+.productCard-title{
+    font-size: 16px;
+    font-weight: 600;
+}
+.productCard-info {
+    padding-left: 20px;
+
+}
+
+.productCard-info > button {
+    background-color: lightsalmon;
+    border: 1px solid black;
+    margin-top: 10px;
+    height: 20px;
+    border-radius: 5px;
+}
+.productCard-info > button:hover {
+    color: white;
+    background-color: red;
+}
